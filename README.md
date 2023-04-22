@@ -16,3 +16,5 @@ To use this script, go into script.mjs and fill in the `token` and `user` variab
 ```
 node script.mjs
 ```
+
+This will print out a list of quizzes to fix up.
