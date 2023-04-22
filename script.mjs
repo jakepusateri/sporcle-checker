@@ -6,7 +6,7 @@ import AdblockerPlugin from 'puppeteer-extra-plugin-adblocker';
 /**
  * To get a token, visit
  * https://api.imgur.com/oauth2/authorize?client_id=7176a68b6fa9e8b&response_type=token&state=blah
- * and provide the value for access_token after allowing
+ * and provide the value for access_token after allowing. It will be in the url you are redirected to.
  */
 const token = 'XXX';
 const user = 'XXX';
